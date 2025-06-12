@@ -74,5 +74,8 @@ button.submit:hover {
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     color: #264653;
-    display: none;
+    display: block;
+}
+h3 {
+    color: black;
 }
